@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"https://github.com/NEOLYH/iOSNEO.git");
+    NSLog(@"text commit my code");
 }
 
 - (void)didReceiveMemoryWarning {
