@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"https://github.com/NEOLYH/iOSNEO.git");
     NSLog(@"text commit my code");
+    NSLog(@"dskfdjs");
 }
 
 - (void)didReceiveMemoryWarning {
